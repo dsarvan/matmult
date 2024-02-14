@@ -1,0 +1,10 @@
+Matrix Multiplication using MPI
+
+
+Build Instructions
+
+On Unix, Linux, BSD, macOS, and Cygwin:
+    make
+    make clean
+
+This will create 'matmult' binary in bin/ directory.
